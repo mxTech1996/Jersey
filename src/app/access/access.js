@@ -7,6 +7,7 @@ import Navbar from '@/components/organisms/Navbar';
 // Array de usuarios como lo solicitaste.
 const allowedUsers = [
   { user: 'julio', password: 'passwordJulio', products: '3,4' },
+    { user: 'miguelAngel', password: 'passwordMiguel'},
   { user: 'ana', password: 'passwordAna', products: '1,2' },
   { user: 'luis', password: 'passwordLuis', products: '5,6' },
   { user: 'maria', password: 'passwordMaria', products: '7,8' },
